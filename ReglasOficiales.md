@@ -5,7 +5,7 @@
 1.1 Queda extricatamente prohibido los adjetivos descalificativos entre los usuarios o hacia los administradores de la comunidad.
 
 **Procedimiento** 
-
+----------
 >De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
 
 >De ser una Publicación, se procederá directamente a bloquear de la comunidad.
@@ -27,7 +27,7 @@
 2.5 Queda extricatamente prohibido publicaciones de material didactico digital (Cursos, Libros, Videotutoriales, etc ) que contenga acordadores en el Link
 
 **Procedimiento** 
-
+----------
 >De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
 
 >De ser una Publicación, se procederá a eliminar dicha publicación . De continuar con la actitud, se procederá directamente a bloquear de la comunidad.
@@ -47,7 +47,7 @@
 3.5 Queda extractamente prohibido las publicaciones que hagan referencia a una marca de algun Producto o Servicio a menos que esté Patrocinado por la Comunidad.
 
 **Procedimiento**  
-
+----------
 >De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
 
 >De ser una Publicación, se procederá a eliminar dicha publicacion, de persistir se procederá directamente a bloquear de la comunidad.
@@ -61,7 +61,7 @@
 4.2 Se debe obligatoriamente indicar todos los campos indicados en la pauta, no se aceptara ninguna publicación Freelance sin un Rango Aproximado entre un minimo y un maximo.
 
 **Procedimiento** 
-
+----------
 >De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
 
 >De ser una Publicación, se le advertirá de la existencia de las presentes normas por cualquiera de los usuarios, de no editar acorde a la pauta despues de 5 minutos de ser notificado, se Procederá a Eliminar la Publicación. En caso de SPAM de una oferta laboral se procederá e Eliminar la Publicación y Eliminar al Usuario. 
