@@ -1,6 +1,6 @@
 # Reglas Oficiales de la Comunidad
 
-**Normas de Convivencia**:
+**Normas de Convivencia**
 ----------
 1.1 Queda extricatamente prohibido los adjetivos descalificativos entre los usuarios o hacia los administradores de la comunidad.
 
@@ -12,7 +12,6 @@
 
 >De ser un Inbox, se le advertirá de la existencia de las presentes normas y de continuar con la actitud, se procederá directamente a bloquear de la comunidad.
 
-----------
 
 **Publicaciones**
 ----------
@@ -56,7 +55,7 @@
 
 
 
-**Ofertas Laborales**:
+**Ofertas Laborales**
 ----------
 
 4.1 Quedan extractamente prohibidas todas las ofertas laborales que no sigan la pauta de la comunidad. 
