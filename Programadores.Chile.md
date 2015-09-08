@@ -1,3 +1,0 @@
-# Programadores Chile ®
-**Contenido**
-
