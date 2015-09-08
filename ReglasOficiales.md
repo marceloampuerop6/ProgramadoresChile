@@ -1,28 +1,28 @@
 # Reglas Oficiales de la Comunidad
 **Reglas Oficiales de la Comunidad**
 
-1.- **Normas de Convivencia**:
+1.**Normas de Convivencia**:
 
-Queda extricatamente prohibido los adjetivos descalificativos entre los usuarios o hacia los administradores de la comunidad.
+**1.1** Queda extricatamente prohibido los adjetivos descalificativos entre los usuarios o hacia los administradores de la comunidad.
 
->**Procedimiento** 
+**Procedimiento** 
 
-	De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
+De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
 
-	De ser una Publicación, se procederá directamente a bloquear de la comunidad.
+De ser una Publicación, se procederá directamente a bloquear de la comunidad.
 
-	de ser un Inbox, se le advertirá de la existencia de las presentes normas y de continuar con la actitud, se procederá directamente a bloquear de la comunidad.
+de ser un Inbox, se le advertirá de la existencia de las presentes normas y de continuar con la actitud, se procederá directamente a bloquear de la comunidad.
 
 
-2.- **Publicaciones**
+2.**Publicaciones**
 
-Queda extricatamente prohibido publicaciones con fines comerciales de productos y servicios ofrecidos por empresas o por personas naturales. 
+**2.1** Queda extricatamente prohibido publicaciones con fines comerciales de productos y servicios ofrecidos por empresas o por personas naturales. 
 
-Solo están permitidas las publicaciones que pretendan financiar alguna actividad de la comunidad y estas tienen que estar publicadas por un Administrador.
+**2.2** Solo están permitidas las publicaciones que pretendan financiar alguna actividad de la comunidad y estas tienen que estar publicadas por un Administrador.
 
-Queda extricatamente prohibido publicaciones que no sean parte de la termatica de la Comunidad.
+**2.3** ueda extricatamente prohibido publicaciones que no sean parte de la termatica de la Comunidad.
 
-Queda extricatamente prohibido publicaciones que sean escritas en su mayoria con mayusculas a modo de enfasis.
+**2.4** Queda extricatamente prohibido publicaciones que sean escritas en su mayoria con mayusculas a modo de enfasis.
 
 Queda extricatamente prohibido publicaciones de material didactico digital (Cursos, Libros, Videotutoriales, etc ) que contenga acordadores en el Link
 
