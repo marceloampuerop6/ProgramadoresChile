@@ -1,17 +1,16 @@
 # Reglas Oficiales de la Comunidad
-**Reglas Oficiales de la Comunidad**
 
-1.**Normas de Convivencia**:
+**1.Normas de Convivencia**:
 
-**1.1** Queda extricatamente prohibido los adjetivos descalificativos entre los usuarios o hacia los administradores de la comunidad.
+1.1 Queda extricatamente prohibido los adjetivos descalificativos entre los usuarios o hacia los administradores de la comunidad.
 
 **Procedimiento** 
 
-De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
-
-De ser una Publicación, se procederá directamente a bloquear de la comunidad.
-
-de ser un Inbox, se le advertirá de la existencia de las presentes normas y de continuar con la actitud, se procederá directamente a bloquear de la comunidad.
+>De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a >bloquear de la comunidad.
+>
+>De ser una Publicación, se procederá directamente a bloquear de la comunidad.
+>
+>de ser un Inbox, se le advertirá de la existencia de las presentes normas y de continuar con la actitud, se procederá >directamente a bloquear de la comunidad.
 
 
 2.**Publicaciones**
