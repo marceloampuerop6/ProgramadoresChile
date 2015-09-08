@@ -1,6 +1,6 @@
 # Reglas Oficiales de la Comunidad
 
-**1.Normas de Convivencia**:
+**Normas de Convivencia**:
 
 1.1 Queda extricatamente prohibido los adjetivos descalificativos entre los usuarios o hacia los administradores de la comunidad.
 
@@ -12,8 +12,9 @@
 
 >De ser un Inbox, se le advertirá de la existencia de las presentes normas y de continuar con la actitud, se procederá directamente a bloquear de la comunidad.
 
+----------
 
-**2.Publicaciones**
+**Publicaciones**
 
 2.1 Queda extricatamente prohibido publicaciones con fines comerciales de productos y servicios ofrecidos por empresas o por personas naturales. 
 
@@ -31,7 +32,9 @@
 
 >De ser una Publicación, se procederá a eliminar dicha publicación . De continuar con la actitud, se procederá directamente a bloquear de la comunidad.
 
-**3.Publicidad**:
+----------
+
+**Publicidad**:
 
 3.1 Quedan extricatamente prohibido publicaciones y comentarios promocionando otras comunidades que no pertenescan a Comunidades.io a menos que la recomendación sea ejecutada por un administrador.
 
@@ -49,8 +52,9 @@
 
 >De ser una Publicación, se procederá a eliminar dicha publicacion, de persistir se procederá directamente a bloquear de la comunidad.
 
+----------
 
-**4.Ofertas Laborales**:
+**Ofertas Laborales**:
 
 4.1 Quedan extractamente prohibidas todas las ofertas laborales que no sigan la pauta de la comunidad. 
 
@@ -61,3 +65,5 @@
 >De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
 
 >De ser una Publicación, se le advertirá de la existencia de las presentes normas por cualquiera de los usuarios, de no editar acorde a la pauta despues de 5 minutos de ser notificado, se Procederá a Eliminar la Publicación. En caso de SPAM de una oferta laboral se procederá e Eliminar la Publicación y Eliminar al Usuario. 
+
+----------
