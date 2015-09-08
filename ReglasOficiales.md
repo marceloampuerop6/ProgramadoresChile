@@ -1,11 +1,11 @@
 # Reglas Oficiales de la Comunidad
 
 **Normas de Convivencia**:
-
+----------
 1.1 Queda extricatamente prohibido los adjetivos descalificativos entre los usuarios o hacia los administradores de la comunidad.
 
 **Procedimiento** 
-----------
+
 >De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
 
 >De ser una Publicación, se procederá directamente a bloquear de la comunidad.
@@ -15,6 +15,7 @@
 ----------
 
 **Publicaciones**
+----------
 
 2.1 Queda extricatamente prohibido publicaciones con fines comerciales de productos y servicios ofrecidos por empresas o por personas naturales. 
 
@@ -27,14 +28,15 @@
 2.5 Queda extricatamente prohibido publicaciones de material didactico digital (Cursos, Libros, Videotutoriales, etc ) que contenga acordadores en el Link
 
 **Procedimiento** 
-----------
+
 >De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
 
 >De ser una Publicación, se procederá a eliminar dicha publicación . De continuar con la actitud, se procederá directamente a bloquear de la comunidad.
 
-----------
+
 
 **Publicidad**:
+----------
 
 3.1 Quedan extricatamente prohibido publicaciones y comentarios promocionando otras comunidades que no pertenescan a Comunidades.io a menos que la recomendación sea ejecutada por un administrador.
 
@@ -47,23 +49,24 @@
 3.5 Queda extractamente prohibido las publicaciones que hagan referencia a una marca de algun Producto o Servicio a menos que esté Patrocinado por la Comunidad.
 
 **Procedimiento**  
-----------
+
 >De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
 
 >De ser una Publicación, se procederá a eliminar dicha publicacion, de persistir se procederá directamente a bloquear de la comunidad.
 
-----------
+
 
 **Ofertas Laborales**:
+----------
 
 4.1 Quedan extractamente prohibidas todas las ofertas laborales que no sigan la pauta de la comunidad. 
 
 4.2 Se debe obligatoriamente indicar todos los campos indicados en la pauta, no se aceptara ninguna publicación Freelance sin un Rango Aproximado entre un minimo y un maximo.
 
 **Procedimiento** 
-----------
+
 >De ser un Comentario, se procederá a eliminar dicho comentario. de persistir despues de la advertencia, se procederá a bloquear de la comunidad.
 
 >De ser una Publicación, se le advertirá de la existencia de las presentes normas por cualquiera de los usuarios, de no editar acorde a la pauta despues de 5 minutos de ser notificado, se Procederá a Eliminar la Publicación. En caso de SPAM de una oferta laboral se procederá e Eliminar la Publicación y Eliminar al Usuario. 
 
-----------
+
