@@ -16,15 +16,13 @@
 **Publicaciones**
 ----------
 
-**2.1** Queda estrictamente prohibido realizar publicaciones con fines comerciales de productos y/o servicios ofrecidos por empresas o personas naturales.
+**2.1** Queda estrictamente prohibido realizar publicaciones con fines comerciales de productos y/o servicios ofrecidos por empresas o personas naturales. Solo se permiten las publicaciones que pretendan financiar actividades de la comunidad.
 
-**2.2** Solo se permiten las publicaciones que pretendan financiar alguna actividad de la comunidad y éstas tienen que estar publicadas por un Administrador.
+**2.2** Queda estrictamente prohibido realizar publicaciones que no sean parte de la temática de la Comunidad.
 
-**2.3** Queda estrictamente prohibido realizar publicaciones que no sean parte de la temática de la Comunidad.
+**2.3** Queda estrictamente prohibido hacer publicaciones que sean escritas en su mayoría con mayúsculas a modo de énfasis.
 
-**2.4** Queda estrictamente prohibido hacer publicaciones que sean escritas en su mayoría con mayúsculas a modo de énfasis.
-
-**2.5** Queda estrictamente prohibido publicar material didáctico digital (Cursos, Libros, Videotutoriales, etc.) que contengan acordadores en el link ( Adfly, Shorte, Etc ).
+**2.4** Queda estrictamente prohibido publicar material didáctico digital (Cursos, Libros, Videotutoriales, etc.) que contengan acordadores en el link ( Adfly, Shorte, Etc ).
 
 **Procedimiento** 
 
@@ -36,15 +34,11 @@
 **Publicidad**:
 ----------
 
-**3.1** Quedan estrictamente prohibidas publicaciones y comentarios promocionando otras comunidades que no pertenescan a Comunidades.io, a menos que la recomendación sea ejecutada por un administrador.
+**3.1** Quedan estrictamente prohibidas publicaciones y comentarios promocionando otras comunidades que no pertenescan a Comunidades.io, a menos que se pida permiso a un administrador.
 
-**3.2** Quedan estrictamente prohibidas las publicaciones que hagan referencia a un canal propio de YouTube con el fin de conseguir más seguidores.
+**3.2** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una Fanpage de Facebook con el fin de conseguir más Likes y no aportar a la Comunidad.
 
-**3.3** Solo están permitidos: los videostutoriales a modo de sugerencia a partir de una problemática, los que planteen un aporte directo a la temática de la comunidad, los que provengan del canal oficial del la comunidad, y los videotutoriales que se realicen en el canal de la comunidad.
-
-**3.4** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una Fanpage de Facebook con el fin de conseguir más Likes.
-
-**3.5** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio, a menos que esté patrocinado por la Comunidad.
+**3.3** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio con el fin de conseguir una venta que no este realcionada con Comunidades.io.
 
 **Procedimiento**  
 
